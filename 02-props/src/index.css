@@ -1,0 +1,13 @@
+.student{
+  border: 1px solid rgba(116, 66, 108, 0.719);
+  padding: 10px;
+  margin: 10px;
+  width: 250px;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: rgb(177, 157, 176);
+  color: rgb(255, 255, 255);
+}
+.student p{
+  margin: 0;
+}
