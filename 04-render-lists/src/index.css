@@ -1,0 +1,35 @@
+
+.category{
+  color: aliceblue;
+  background-color: black;
+  border: 2px solid rgb(32, 32, 32);
+  border-radius: 5px;
+  font-size: 27px;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+.list li:hover{
+  color: rgb(39, 37, 34);
+  cursor: pointer;
+}
+
+.list li{
+  list-style: none;
+  text-align: center;
+}
+
+.low{
+  text-align: center;
+}
+
+.low li{
+  list-style: none;
+}
+
+h4{
+  text-align: center;
+}
+
