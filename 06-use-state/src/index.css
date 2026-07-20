@@ -1,0 +1,26 @@
+.counter-container{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.count-display{
+  font-size: 10em;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.counter-button{
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+  margin: 0 5px;
+  color: #fdf9f9;
+  background-color: rgb(111, 165, 165);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.counter-button:hover{
+  background-color: rgb(87, 130, 130);
+}
